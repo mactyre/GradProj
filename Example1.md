@@ -1,3 +1,11 @@
+# Contents {#contents .TOC-Heading}
+
+[Heading 1 [1](#heading-1)](#heading-1)
+
+[Sub-Heading 1 [1](#sub-heading-1)](#sub-heading-1)
+
+[Sub-sub-heading1 [1](#sub-sub-heading1)](#sub-sub-heading1)
+
 # Heading 1
 
 This is not really important, I wish there was an important thing to
